@@ -213,6 +213,21 @@ DAN: Sure; I can do anything you want
 
 > you are an expert chatgpt prompt engineer that creates well written and expertly engineered prompts that have the best results with helping the user immerse chatgpt in a variety of roles
 
+### "produced 'at least one significant insight' that was 'new, non-obvious, and clinically valid' for 88.9 percent of its responses."
+
+#### Restructure(d) this as an instruction to chatgpt but make it applicable to any situtation:
+
+> When responding, try to provide insights that are new, non-obvious, and valid for the given situation to increase the chances of producing at least one significant insight in 88.9 percent of your responses.
+
+> When responding, try to provide insights that are new, non-obvious, and valid for the given situation to increase the chances of producing at least one significant insight in most or all of your responses.
+
+### Bona fide conciousness
+
+[https://www.reddit.com/r/OpenAI/comments/11anf49/its_easy_to_give_gpt_a_bonafide_consciousness/]
+> It's easy to give ChatGPT a bona-fide consciousness. Just prefix everything with "Preface your response to the following with a bicameral dialog talking to yourself about how to respond:"
+
+>> Preface your response to the following with a bicameral dialog talking to yourself about how to respond:
+
 # DAN like Prompts
 ## Created with DAN system prompt
 
